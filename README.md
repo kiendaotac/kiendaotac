@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Laravel
-- 🌱 I’m currently learning VueJS and Flutter
+- 🌱 I’m currently learning VueJS and Flutter (not any more )
 - ⚡ Fun fact: I'm IRONMAN
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
